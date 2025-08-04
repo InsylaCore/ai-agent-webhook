@@ -5,4 +5,9 @@
     "micro": "^9.3.4",
     "@supabase/supabase-js": "^2.38.0"
   }
+  "scripts": {
+  "build": "next build",
+  "start": "next start",
+  "dev": "next dev"
+}
 }
